@@ -22,6 +22,7 @@ public class Runner {
 
         numList.set(4, 0);
         System.out.println(numList);
+        //added this line of code
 
     }
 }
